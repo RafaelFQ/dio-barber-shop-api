@@ -13,5 +13,5 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos criar um projeto Java com Spring para agendamento de atendimento em uma barbearia, vamos usar JPA com Hibernate para salvar os dados no PostgresSQL, gerenciar migrations do banco de Dados com Flyway
+Criei junto com o professor um projeto Java com Spring para agendamento de atendimento em uma barbearia, vamos usar JPA com Hibernate para salvar os dados no PostgresSQL, gerenciar migrations do banco de Dados com Flyway
 
